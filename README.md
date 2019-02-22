@@ -1,7 +1,7 @@
 # Py Lin
 
 Py Lin provides the ability to control a Lin Engineering stepper motor driver using simple commands. 
-Typical usage often looks like this::
+Typical usage often looks like this:
 
     #!/usr/bin/env python
 
