@@ -7,7 +7,7 @@ Typical usage often looks like this:
 
     from pylin import driver
 
-    my_driver = driver(usb_port_name,1)
+    my_driver = driver.driver(usb_port_name,1)
     my_driver.Step(1000)
     print("Your stepper motor with controller address 1 should be stepping forward 1000 microsteps.")
 
